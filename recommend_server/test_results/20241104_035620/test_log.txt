@@ -1,0 +1,2 @@
+2024-11-04 03:56:20,631 - ERROR - Health check failed: 404 Client Error: Not Found for url: http://localhost:8000/health
+2024-11-04 03:56:20,631 - ERROR - Server is not healthy, stopping tests

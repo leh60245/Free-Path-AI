@@ -1,0 +1,35 @@
+{
+  "request": {
+    "startAt": "2024-11-04",
+    "endAt": "2024-11-06",
+    "people": 1,
+    "destination": "부산",
+    "disabilities": null,
+    "age": [
+      20
+    ],
+    "theme": [
+      2,
+      3
+    ],
+    "purpose": [
+      2,
+      4
+    ],
+    "visit": [
+      2,
+      3,
+      4
+    ],
+    "environment": 2
+  },
+  "response": {
+    "recommendations": [],
+    "similar_users_count": 10,
+    "timestamp": "2024-11-04T04:01:02.949707"
+  },
+  "analysis": {
+    "total_recommendations": 0,
+    "similar_users_count": 10
+  }
+}

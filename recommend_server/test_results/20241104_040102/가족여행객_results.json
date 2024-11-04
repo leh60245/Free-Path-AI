@@ -1,0 +1,122 @@
+{
+  "request": {
+    "startAt": "2024-11-04",
+    "endAt": "2024-11-06",
+    "people": 3,
+    "destination": "서울",
+    "disabilities": [
+      "helpdog"
+    ],
+    "age": [
+      30,
+      40
+    ],
+    "theme": [
+      1,
+      2
+    ],
+    "purpose": [
+      1,
+      2,
+      3
+    ],
+    "visit": [
+      1,
+      2
+    ],
+    "environment": 3
+  },
+  "response": {
+    "recommendations": [
+      {
+        "item_id": "스타필드 코엑스몰",
+        "sido": "서울",
+        "predicted_rating": 4.25,
+        "confidence_score": 3.6125,
+        "similarity_scores": {
+          "age": 0.0,
+          "people": 1.0,
+          "destination": 1.0,
+          "purpose": 1.0,
+          "style": 1.0,
+          "final": 0.85
+        }
+      },
+      {
+        "item_id": "반포 한강공원",
+        "sido": "서울",
+        "predicted_rating": 4.25,
+        "confidence_score": 3.6125,
+        "similarity_scores": {
+          "age": 0.0,
+          "people": 1.0,
+          "destination": 1.0,
+          "purpose": 1.0,
+          "style": 1.0,
+          "final": 0.85
+        }
+      },
+      {
+        "item_id": "남산 서울타워",
+        "sido": "서울",
+        "predicted_rating": 4.0625,
+        "confidence_score": 3.30078125,
+        "similarity_scores": {
+          "age": 0.0,
+          "people": 0.75,
+          "destination": 1.0,
+          "purpose": 1.0,
+          "style": 1.0,
+          "final": 0.812
+        }
+      },
+      {
+        "item_id": "현대 시티 아울렛 동대문점",
+        "sido": "서울",
+        "predicted_rating": 4.0625,
+        "confidence_score": 3.30078125,
+        "similarity_scores": {
+          "age": 0.0,
+          "people": 0.75,
+          "destination": 1.0,
+          "purpose": 1.0,
+          "style": 1.0,
+          "final": 0.812
+        }
+      },
+      {
+        "item_id": "CGV 피카디리 1958",
+        "sido": "서울",
+        "predicted_rating": 4.0625,
+        "confidence_score": 3.30078125,
+        "similarity_scores": {
+          "age": 0.0,
+          "people": 0.75,
+          "destination": 1.0,
+          "purpose": 1.0,
+          "style": 1.0,
+          "final": 0.812
+        }
+      }
+    ],
+    "similar_users_count": 10,
+    "timestamp": "2024-11-04T04:01:02.676914"
+  },
+  "analysis": {
+    "total_recommendations": 5,
+    "similar_users_count": 10,
+    "ratings": {
+      "min": 4.0625,
+      "max": 4.25,
+      "avg": 4.1375
+    },
+    "confidence_scores": {
+      "min": 3.30078125,
+      "max": 3.6125,
+      "avg": 3.4254687500000003
+    },
+    "region_distribution": {
+      "서울": 5
+    }
+  }
+}

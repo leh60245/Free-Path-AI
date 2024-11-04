@@ -1,0 +1,40 @@
+{
+  "start_time": "2024-11-04T04:01:02.378805",
+  "results": {
+    "가족여행객": {
+      "status": "success",
+      "analysis": {
+        "total_recommendations": 5,
+        "similar_users_count": 10,
+        "ratings": {
+          "min": 4.0625,
+          "max": 4.25,
+          "avg": 4.1375
+        },
+        "confidence_scores": {
+          "min": 3.30078125,
+          "max": 3.6125,
+          "avg": 3.4254687500000003
+        },
+        "region_distribution": {
+          "서울": 5
+        }
+      }
+    },
+    "혼자여행객": {
+      "status": "success",
+      "analysis": {
+        "total_recommendations": 0,
+        "similar_users_count": 10
+      }
+    },
+    "친구여행객": {
+      "status": "success",
+      "analysis": {
+        "total_recommendations": 0,
+        "similar_users_count": 10
+      }
+    }
+  },
+  "end_time": "2024-11-04T04:01:03.225178"
+}

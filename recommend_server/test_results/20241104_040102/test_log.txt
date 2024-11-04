@@ -1,0 +1,33 @@
+2024-11-04 04:01:02,395 - INFO - Health check successful
+2024-11-04 04:01:02,395 - INFO - 
+Executing test case: 가족여행객
+2024-11-04 04:01:02,678 - INFO - Found 10 similar users
+2024-11-04 04:01:02,680 - INFO - Results saved to test_results/20241104_040102/가족여행객_results.json
+2024-11-04 04:01:02,680 - INFO - 
+Executing test case: 혼자여행객
+2024-11-04 04:01:02,950 - INFO - Found 10 similar users
+2024-11-04 04:01:02,952 - INFO - Results saved to test_results/20241104_040102/혼자여행객_results.json
+2024-11-04 04:01:02,952 - INFO - 
+Executing test case: 친구여행객
+2024-11-04 04:01:03,223 - INFO - Found 10 similar users
+2024-11-04 04:01:03,225 - INFO - Results saved to test_results/20241104_040102/친구여행객_results.json
+2024-11-04 04:01:03,226 - INFO - Results saved to test_results/20241104_040102/test_summary_results.json
+2024-11-04 04:01:03,226 - INFO - 
+=== Test Summary ===
+2024-11-04 04:01:03,226 - INFO - Test started at: 2024-11-04T04:01:02.378805
+2024-11-04 04:01:03,226 - INFO - Test ended at: 2024-11-04T04:01:03.225178
+2024-11-04 04:01:03,226 - INFO - 
+가족여행객:
+2024-11-04 04:01:03,226 - INFO - - Similar users: 10
+2024-11-04 04:01:03,226 - INFO - - Total recommendations: 5
+2024-11-04 04:01:03,226 - INFO - - Average rating: 4.14
+2024-11-04 04:01:03,226 - INFO - - Region distribution:
+2024-11-04 04:01:03,226 - INFO -   서울: 5
+2024-11-04 04:01:03,226 - INFO - 
+혼자여행객:
+2024-11-04 04:01:03,226 - INFO - - Similar users: 10
+2024-11-04 04:01:03,226 - INFO - - Total recommendations: 0
+2024-11-04 04:01:03,226 - INFO - 
+친구여행객:
+2024-11-04 04:01:03,226 - INFO - - Similar users: 10
+2024-11-04 04:01:03,226 - INFO - - Total recommendations: 0

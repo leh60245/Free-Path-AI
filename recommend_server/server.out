@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/home/jovyan/recommend_server/scripts/run_server.py", line 8, in <module>
+    from app.core.config import settings
+  File "/home/jovyan/recommend_server/app/__init__.py", line 2, in <module>
+    from .services.recommender import RecommendationService
+  File "/home/jovyan/recommend_server/app/services/__init__.py", line 1, in <module>
+    from .recommender import RecommendationService
+  File "/home/jovyan/recommend_server/app/services/recommender.py", line 5, in <module>
+    from ..models.schemas import TravelRequest, SimilarityScores
+  File "/home/jovyan/recommend_server/app/models/__init__.py", line 1, in <module>
+    from .schemas import (
+ImportError: cannot import name 'RecommendationRequest' from 'app.models.schemas' (/home/jovyan/recommend_server/app/models/schemas.py)
